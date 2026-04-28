@@ -18,7 +18,7 @@
 - **Data:** MIMIC-IV, Lab + Vitals
 - **Model:** TabTransformer, Multi-label classification
 - **Role:** 데이터 전처리, 모델 설계, CDSS 로직 구현
-- 👉 [프로젝트 바로가기](https://github.com/leedayeongng/레포이름)
+-👉 [프로젝트 바로가기](https://github.com/leedayeongng/ovarian-cancer-cdss)
 
 ---
 
@@ -26,7 +26,7 @@
 - 감정 분석 + 고위험 발화 탐지 정신건강 AI
 - **Model:** KoELECTRA 기반 감정 분류
 - **Feature:** 자살 위험 키워드 탐지 + 요약 기능
-- 👉 [프로젝트 바로가기](https://github.com/leedayeongng/레포이름)
+👉 [프로젝트 바로가기](https://github.com/leedayeongng/maumjigi-ai)
 
 ---
 
