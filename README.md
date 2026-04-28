@@ -18,7 +18,7 @@
 - **Data:** MIMIC-IV, Lab + Vitals
 - **Model:** TabTransformer, Multi-label classification
 - **Role:** 데이터 전처리, 모델 설계, CDSS 로직 구현
--👉 [프로젝트 바로가기](https://github.com/leedayeongng/ovarian-cancer-cdss)
+👉 [프로젝트 상세 보기 (CDSS 전체 구조 + 모델 설명)](링크)(https://github.com/leedayeongng/ovarian-cancer-cdss)
 
 ---
 
