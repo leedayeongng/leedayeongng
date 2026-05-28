@@ -1,0 +1,11 @@
+
+# 마운트 후 경로 수정 필요
+path: /home/ubuntu/project/data/ultrasound
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2  # 클래스 수 (양성/악성)
+names:
+  0: benign    # 양성
+  1: malignant # 악성
